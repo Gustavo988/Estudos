@@ -24,6 +24,4 @@ int main(){
         printf("\nReprovado\n");
     }
     return 0;
-    
-    
-}
+ }
