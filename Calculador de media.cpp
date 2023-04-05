@@ -2,6 +2,7 @@
 #include<locale.h>
 
 int main(){
+    setlocale(LC_ALL,"");
     float n1, n2, media=0,freq;
     printf("Entre com a primeira nota: ");
     scanf("%f", &n1);
